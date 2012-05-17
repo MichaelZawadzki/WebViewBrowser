@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WebViewBrowserActivity!</string>
+    <string name="app_name">WebViewBrowser</string>
+    <string name="go_button">Go</string>
+    <string name="url_default">http://</string>
+
+</resources>
